@@ -192,3 +192,7 @@ describe "String to Proc" do
 
 end
 ```
+
+### see also
+
+[String Lambdas](https://github.com/raganwald/string-lambdas)
