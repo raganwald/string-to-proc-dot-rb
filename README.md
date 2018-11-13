@@ -1,4 +1,4 @@
-# string-to-proc-dot-rb
+# `String#to_proc`
 
 `String#to_proc` is an addition to Ruby’s core String class to enable point-free hylomorphisms…
 
