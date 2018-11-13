@@ -84,7 +84,7 @@ Otherwise, the variables in the string, in order of occurrence, are its paramete
      → 5
 ```
 
-###Chaining
+### Chaining
 
 Chain `->` to create curried functions:
 
